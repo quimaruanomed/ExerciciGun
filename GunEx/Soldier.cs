@@ -5,29 +5,34 @@ using System.Text;
 
 namespace GunEx
 {
-   public class Soldier 
+    public class Soldier : MachineGun
     {
-
-        public  Soldier(MachineGun machineGun)
-        {
-           
-        }
-       
-        public Soldier(MachineGun machine, MachineGun machine1)
+        public Soldier(MachineGun machine)
         {
 
         }
-       public void Shoot(string target)
+
+        public Soldier(MachineGun machine2, MachineGun machine3)
         {
-            Console.WriteLine(target);
+
         }
+
     }
 }
+           
 
-       
-       
+            
+
+        
+    
+
         
 
-      
-        
- 
+
+
+
+
+
+
+
+
