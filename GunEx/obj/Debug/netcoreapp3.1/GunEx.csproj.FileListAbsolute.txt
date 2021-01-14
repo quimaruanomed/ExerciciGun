@@ -1,0 +1,13 @@
+C:\Users\jruan\source\repos\GunEx\GunEx\bin\Debug\netcoreapp3.1\GunEx.exe
+C:\Users\jruan\source\repos\GunEx\GunEx\bin\Debug\netcoreapp3.1\GunEx.deps.json
+C:\Users\jruan\source\repos\GunEx\GunEx\bin\Debug\netcoreapp3.1\GunEx.runtimeconfig.json
+C:\Users\jruan\source\repos\GunEx\GunEx\bin\Debug\netcoreapp3.1\GunEx.runtimeconfig.dev.json
+C:\Users\jruan\source\repos\GunEx\GunEx\bin\Debug\netcoreapp3.1\GunEx.dll
+C:\Users\jruan\source\repos\GunEx\GunEx\bin\Debug\netcoreapp3.1\GunEx.pdb
+C:\Users\jruan\source\repos\GunEx\GunEx\obj\Debug\netcoreapp3.1\GunEx.csprojAssemblyReference.cache
+C:\Users\jruan\source\repos\GunEx\GunEx\obj\Debug\netcoreapp3.1\GunEx.AssemblyInfoInputs.cache
+C:\Users\jruan\source\repos\GunEx\GunEx\obj\Debug\netcoreapp3.1\GunEx.AssemblyInfo.cs
+C:\Users\jruan\source\repos\GunEx\GunEx\obj\Debug\netcoreapp3.1\GunEx.csproj.CoreCompileInputs.cache
+C:\Users\jruan\source\repos\GunEx\GunEx\obj\Debug\netcoreapp3.1\GunEx.dll
+C:\Users\jruan\source\repos\GunEx\GunEx\obj\Debug\netcoreapp3.1\GunEx.pdb
+C:\Users\jruan\source\repos\GunEx\GunEx\obj\Debug\netcoreapp3.1\GunEx.genruntimeconfig.cache
